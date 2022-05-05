@@ -1,2 +1,2 @@
-# Michigan-Python-Data-Structures
-Assignments of this course
+# Fundamental-Python-Data-Structures
+About assigments, fundamental functions and loops
